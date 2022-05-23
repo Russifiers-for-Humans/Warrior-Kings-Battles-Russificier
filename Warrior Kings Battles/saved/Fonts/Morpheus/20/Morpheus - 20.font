@@ -1,0 +1,30 @@
+height 20
+glyph_gap 0
+space_size 6
+
+source_file .\Fonts\Morpheus\20\33_126.tga
+first_glyph 33
+
+source_file .\Fonts\Morpheus\20\161_255.tga
+first_glyph 161
+
+source_file .\Fonts\Morpheus\20\1118.tga
+first_glyph 1118
+
+source_file .\Fonts\Morpheus\20\1040.tga
+first_glyph 1040
+
+source_file .\Fonts\Morpheus\20\1056.tga
+first_glyph 1056
+
+source_file .\Fonts\Morpheus\20\1072.tga
+first_glyph 1072
+
+source_file .\Fonts\Morpheus\20\1088.tga
+first_glyph 1088
+
+
+advance_x 75 -6
+advance_x 82 -4
+advance_x 107 -3
+advance_x 114 -3

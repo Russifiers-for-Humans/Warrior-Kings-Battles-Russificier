@@ -1,0 +1,12 @@
+height 10
+glyph_gap 1
+space_size 6
+
+source_file .\Fonts\Small_Numbers\10\48_57.tga
+first_glyph 48
+
+source_file .\Fonts\Small_Numbers\10\43.tga
+first_glyph 43
+
+source_file .\Fonts\Small_Numbers\10\47.tga
+first_glyph 47
